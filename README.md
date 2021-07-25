@@ -11,6 +11,6 @@ btnReply: 'Gửi cho you 💟💘💗💓',
 reply: 'Yêu thì yêu mà không yêu cũng phải yêu mình 🙆🙆🙆💖💖',
 mess: 'Yes, I know you are my princess. Love you pặc pặc 💋💋💋',
 messDesc: 'Tối nay mình cùng 419 đi my lady yeah!',
-btnAccept: 'Ba con sói eeeeeeee',
+btnAccept: 'Ba con sói eeeeee',
 messLink: 'https://www.facebook.com/messages/t/100023067860706'
 }
